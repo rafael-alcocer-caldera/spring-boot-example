@@ -21,6 +21,4 @@ RRRRRRRR     RRRRRRRAAAAAAA                   AAAAAAA   CCCCCCCCCCCCC
                                                                      
                                                                      
                                                                      
-                                                                     
-                                                                     
-                                                                     
+Spring Boot Version ${spring-boot.version}
