@@ -1,0 +1,24 @@
+
+                                                                     
+                                                                     
+RRRRRRRRRRRRRRRRR                  AAA                  CCCCCCCCCCCCC
+R::::::::::::::::R                A:::A              CCC::::::::::::C
+R::::::RRRRRR:::::R              A:::::A           CC:::::::::::::::C
+RR:::::R     R:::::R            A:::::::A         C:::::CCCCCCCC::::C
+  R::::R     R:::::R           A:::::::::A       C:::::C       CCCCCC
+  R::::R     R:::::R          A:::::A:::::A     C:::::C              
+  R::::RRRRRR:::::R          A:::::A A:::::A    C:::::C              
+  R:::::::::::::RR          A:::::A   A:::::A   C:::::C              
+  R::::RRRRRR:::::R        A:::::A     A:::::A  C:::::C              
+  R::::R     R:::::R      A:::::AAAAAAAAA:::::A C:::::C              
+  R::::R     R:::::R     A:::::::::::::::::::::AC:::::C              
+  R::::R     R:::::R    A:::::AAAAAAAAAAAAA:::::AC:::::C       CCCCCC
+RR:::::R     R:::::R   A:::::A             A:::::AC:::::CCCCCCCC::::C
+R::::::R     R:::::R  A:::::A               A:::::ACC:::::::::::::::C
+R::::::R     R:::::R A:::::A                 A:::::A CCC::::::::::::C
+RRRRRRRR     RRRRRRRAAAAAAA                   AAAAAAA   CCCCCCCCCCCCC
+                                                                     
+                                                                     
+                                                                     
+                                                                     
+Spring Boot Version ${spring-boot.version}

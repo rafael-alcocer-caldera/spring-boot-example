@@ -1,6 +1,6 @@
-rafael\alcocer\caldera\RacApp.class
 rafael\alcocer\caldera\controller\HelloController.class
 rafael\alcocer\caldera\data\ThingData.class
+rafael\alcocer\caldera\controller\ThingController.class
+rafael\alcocer\caldera\RacApp.class
 rafael\alcocer\caldera\model\Thing.class
 rafael\alcocer\caldera\service\ThingService.class
-rafael\alcocer\caldera\controller\ThingController.class
